@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ch1_string_str" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ch2_array_tupple" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ch3_vec" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ch4_vecquene" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ch5_LinkList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ch6_Map" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ch7_BTreeMap" vcs="Git" />
+  </component>
+</project>
